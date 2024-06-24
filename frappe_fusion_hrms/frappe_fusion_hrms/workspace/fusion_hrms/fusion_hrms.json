@@ -1,0 +1,33 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"MWoURGa-An\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Fusion Hrms</span>\",\"col\":12}}]",
+ "creation": "2024-06-24 11:10:20.230006",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "change",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Fusion Hrms",
+ "links": [],
+ "modified": "2024-06-24 11:10:57.380925",
+ "modified_by": "mohammadsami.ansari@fusionsofttech.co.in",
+ "module": "Frappe Fusion Hrms",
+ "name": "Fusion Hrms",
+ "number_cards": [],
+ "owner": "mohammadsami.ansari@fusionsofttech.co.in",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [
+  {
+   "role": "Employee"
+  }
+ ],
+ "sequence_id": 39.0,
+ "shortcuts": [],
+ "title": "Fusion Hrms"
+}
