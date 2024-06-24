@@ -4,6 +4,10 @@ app_publisher = "Fusion Softtech"
 app_description = "Fusion Hrms includes checkin, checkout, salary slip, leave request etc within the workspace."
 app_email = "mohammadsami.ansari@fusionsofttech.co.in"
 app_license = "mit"
+
+after_install = "frappe_fusion_hrms.install.after_install"
+before_uninstall = "frappe_fusion_hrms.uninstall.before_uninstall"
+
 # required_apps = []
 
 # Includes in <head>
@@ -227,3 +231,7 @@ app_license = "mit"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
+
+
+
+#fixtures = ["Custom HTML Block", "Fusion Hrms Initial Doc", "New Alert Button"]
