@@ -1,6 +1,6 @@
 {
  "charts": [],
- "content": "[{\"id\":\"MWoURGa-An\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Fusion Hrms</span>\",\"col\":12}},{\"id\":\"NTgR49HWXM\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"Sxf8Q1ac73\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"Check In Button Custom HTML Block\",\"col\":12}}]",
+ "content": "[{\"id\":\"NTgR49HWXM\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"Sxf8Q1ac73\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"Check In Button Custom HTML Block\",\"col\":12}}]",
  "creation": "2024-06-24 11:10:20.230006",
  "custom_blocks": [
   {
@@ -18,7 +18,7 @@
  "is_hidden": 0,
  "label": "Fusion Hrms",
  "links": [],
- "modified": "2024-06-24 11:26:20.365949",
+ "modified": "2024-06-27 10:31:43.367069",
  "modified_by": "mohammadsami.ansari@fusionsofttech.co.in",
  "module": "Frappe Fusion Hrms",
  "name": "Fusion Hrms",

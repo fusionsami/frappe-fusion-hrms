@@ -234,4 +234,4 @@ before_uninstall = "frappe_fusion_hrms.uninstall.before_uninstall"
 
 
 
-#fixtures = ["Custom HTML Block", "Fusion Hrms Initial Doc", "New Alert Button"]
+fixtures = ["Custom HTML Block"]
