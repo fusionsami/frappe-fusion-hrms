@@ -14,14 +14,14 @@
  "hide_custom": 0,
  "icon": "change",
  "idx": 0,
- "indicator_color": "green",
+ "indicator_color": "",
  "is_hidden": 0,
- "label": "Fusion Hrms",
+ "label": "Employee Dashboard",
  "links": [],
- "modified": "2024-06-27 10:31:43.367069",
+ "modified": "2024-06-27 12:16:49.991299",
  "modified_by": "mohammadsami.ansari@fusionsofttech.co.in",
  "module": "Frappe Fusion Hrms",
- "name": "Fusion Hrms",
+ "name": "Employee Dashboard",
  "number_cards": [],
  "owner": "mohammadsami.ansari@fusionsofttech.co.in",
  "parent_page": "",
@@ -34,5 +34,5 @@
  ],
  "sequence_id": 39.0,
  "shortcuts": [],
- "title": "Fusion Hrms"
+ "title": "Employee Dashboard"
 }
