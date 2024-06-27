@@ -8,7 +8,7 @@ app_license = "mit"
 after_install = "frappe_fusion_hrms.install.after_install"
 before_uninstall = "frappe_fusion_hrms.uninstall.before_uninstall"
 
-# required_apps = []
+required_apps = ["frappe/erpnext", "frappe/hrms"]
 
 # Includes in <head>
 # ------------------
